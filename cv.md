@@ -40,3 +40,9 @@ nav class="main-nav"data-aos="fade-up"data-aos-duration="900">
 
 ## English
 Elementary 
+
+[dill]: <https://github.com/leraburyak>
+   [htmlacademy]: <https://htmlacademy.ru>
+   [rs-school]: <hhttps://rs.school>
+   [HTMLacademy-profile]: <https://htmlacademy.ru/profile/id1503883>
+   [Praktikum.yandex.ru]: <https://praktikum.yandex.ru/profile/web/>
