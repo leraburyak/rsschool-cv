@@ -45,6 +45,10 @@ p{
   padding: 5px;
   list-style-type: none;
 }
-footer{
+.footer{
 margin-top: 15px;
+font-size: 10px;
+}
+il a {
+  font-size: 20px;
 }
