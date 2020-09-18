@@ -18,7 +18,7 @@ Now i'm taking courses [rs-school].
  - Basic JS (console.log)
  - VS code
  - Figma
- 
+
 ## Code examples
 ```sh
 nav class="main-nav"data-aos="fade-up"data-aos-duration="900">
@@ -32,3 +32,8 @@ nav class="main-nav"data-aos="fade-up"data-aos-duration="900">
 ```
 ## Experience
 - [Githab](https://github.com/leraburyak)
+
+## Education
+- [HTMLacademy](https://htmlacademy.ru/profile/id1503883)
+- [praktikum.yandex.ru](https://praktikum.yandex.ru/profile/web/)
+- [Glo Academy](https://glo.academy/)
