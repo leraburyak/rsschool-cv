@@ -15,6 +15,20 @@ Now i'm taking courses [rs-school].
 ## Technical Skills
  - HTML
  - CSS
- - Basic JS (console.log :))
+ - Basic JS (console.log)
  - VS code
  - Figma
+ 
+## Code examples
+```sh
+nav class="main-nav"data-aos="fade-up"data-aos-duration="900">
+        <ul class="list">
+          <li class="item"><a href="#" class="item-link"></a>Falcon 9</li>
+          <li class="item"><a href="#" class="item-link"></a>Falcon Heavy</li>
+          <li class="item"><a href="#" class="item-link"></a>Dragon</li>
+          <li class="item"><a href="#" class="item-link"></a>Updates</li>
+        </ul>
+      </nav>
+```
+## Experience
+- [Githab](https://github.com/leraburyak)
